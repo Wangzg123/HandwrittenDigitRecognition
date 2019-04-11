@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import cv2
 import numpy as np
@@ -121,8 +120,8 @@ def predict(modelpath, imgData):
 if __name__ == '__main__':
     # 综合测试
     # path = 'test1.png'
-    path = 'test2.jpg'
-    model = 'my_mnist_model_old.h5'
+    path = 'imgs/test2.jpg'
+    model = 'my_mnist_model.h5'
     borders = findBorderContours(path)
     imgData = transMNIST(path, borders)
     results = predict(model, imgData)
