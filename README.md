@@ -25,5 +25,7 @@
 ps. 以下是my_mnist_model.h5生成所用的模块版本号，低于此版本的可能代码加载不起来
 
 Tensorflow  -- 1.12.0
+
 Keras       -- 2.2.4
+
 opencv2     -- 3.4.4
