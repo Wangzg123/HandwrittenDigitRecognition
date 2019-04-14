@@ -21,7 +21,9 @@
 - 5 showResults         ---- 显示结果及边框
 
 更加详细的介绍可以参考我的博客 https://blog.csdn.net/qq8993174/article/details/89081859
+
 ps. 以下是my_mnist_model.h5生成所用的模块版本号，低于此版本的可能代码加载不起来
+
 Tensorflow  -- 1.12.0
 Keras       -- 2.2.4
 opencv2     -- 3.4.4
