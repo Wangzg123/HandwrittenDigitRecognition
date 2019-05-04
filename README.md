@@ -5,7 +5,7 @@
 - 4 用我们编写的模型预测出结果并输出（如下所示的效果）
 
 代码中主要实现了以下几个功能，输入一张照片可以分辨出数字，并识别输出到图示中，以下是效果
-![识别数字](https://raw.githubusercontent.com/Wangzg123/HandwrittenDigitRecognition/master/test1_result.jpg)
+![识别数字](https://github.com/Wangzg123/HandwrittenDigitRecognition/blob/master/imgs/test1_result.jpg?raw=true)
 
 ================================== 我是分割线 =================================
 
